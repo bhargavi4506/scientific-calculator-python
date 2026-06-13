@@ -34,9 +34,14 @@ python calculator.py
 
 ## Screenshots
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+## Home Screen
+![Home Screen](screenshots/home.png)
+
+## Scientific Mode
+![Scientific Mode](screenshots/scientific.png)
+
+## History Window
+![History](screenshots/history.png)
 
 ## Author
 

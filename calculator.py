@@ -16,7 +16,8 @@ def about():
 
     Label(
         win,
-        text="Scientific Calculator\nVersion 1.0\nDeveloped by Honey",
+        text="Scientific Calculator\nVersion 1.0\nDeveloped by Bhargavi",
+        
         font=("Arial",14)
     ).pack(padx=20,pady=20)
 
