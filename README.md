@@ -1,7 +1,7 @@
-# Scientific Calculator
-
+<h1 align="center">Scientific Calculator</h1>
+<p align="center">
 A Python-based Scientific Calculator built using Tkinter.
-
+</p>
 ## Features
 
 - Basic Arithmetic Operations
